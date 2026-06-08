@@ -1,12 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Shrikrishna Pujar
 ==========================================================================================================================================
 
-Systems Engineer
+Systems Engineer , DevOps Engineer, SRE 
 ----------------
 
 2x Microsoft Certified | VMware Certified | Oracle Cloud Certified | Systems Engineer with 6 years of experience in managing large-scale Windows/Linux infrastructures across VMware and Hyper-V environments. Delivering impactful solutions that enhance system reliability and reduce costs, always eager to learn and apply emerging technologies to deliver robust and scalable solutions.
 
 * 🌍  I'm based in Bangalore, Karnataka
+* Where are you now, under the sea ? The monsters running right inside of me.
 * ✉️  You can contact me at [krishnaon29@gmail.com](mailto:krishnaon29@gmail.com)
 
 <p align="left">
