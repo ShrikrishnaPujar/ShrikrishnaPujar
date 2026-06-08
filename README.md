@@ -6,7 +6,7 @@ Systems Engineer
 
 2x Microsoft Certified | VMware Certified | Oracle Cloud Certified | Systems Engineer with 6 years of experience in managing large-scale Windows/Linux infrastructures across VMware and Hyper-V environments. Delivering impactful solutions that enhance system reliability and reduce costs, always eager to learn and apply emerging technologies to deliver robust and scalable solutions.
 
-* 🌍  I'm based in Bangalore, Karnataka........
+* 🌍  I'm based in Bangalore, Karnataka.
 * ✉️  You can contact me at [krishnaon29@gmail.com](mailto:krishnaon29@gmail.com)
 
 <p align="left">
